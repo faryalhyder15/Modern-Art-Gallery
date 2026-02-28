@@ -8,13 +8,13 @@ Showcases contemporary artworks with a simple navigation structure, gallery view
 ## Project Structure
 modern-art-gallery/
 │
-├── index.html        # Home / Landing page
-├── gallery.html      # Main gallery with artwork thumbnails
-├── detail1.html      # Detail page – Blue Harmony
-├── detail2.html      # Detail page – Texture Art
-├── detail3.html      # Detail page – Dream Within a Dream
-├── about.html        # About the gallery & featured artists
-└── contact.html      # Simple contact form (mailto)
+├── index.html       
+├── gallery.html     
+├── detail1.html      
+├── detail2.html     
+├── detail3.html       
+├── about.html       
+└── contact.html     
 ---
 
 
