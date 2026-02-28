@@ -6,7 +6,9 @@ Showcases contemporary artworks with a simple navigation structure, gallery view
 ---
 
 ## Project Structure
+
 modern-art-gallery/
+
 │
 ├── index.html       
 ├── gallery.html     
