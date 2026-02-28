@@ -5,21 +5,6 @@ Showcases contemporary artworks with a simple navigation structure, gallery view
 
 ---
 
-## Project Structure
-
-modern-art-gallery/
-
-│
-├── index.html       
-├── gallery.html     
-├── detail1.html      
-├── detail2.html     
-├── detail3.html       
-├── about.html       
-└── contact.html     
----
-
-
 ## Features
 
 - Responsive top navigation bar (Home | Gallery | About | Contact)
